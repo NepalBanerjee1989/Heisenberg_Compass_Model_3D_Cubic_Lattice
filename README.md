@@ -8,6 +8,14 @@ Author:Nepal Banerjee,University of Seoul,Seoul,South Korea
 github Link:
 https://github.com/NepalBanerjee1989/Heisenberg_Compass_Model_3D_Cubic_Lattice.git
 
+------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
+# Contact:
+
+Email:-nepalbanerjee36@gmail.com/nb.uos1989@gmail.com 
+
+Mobile Number:-+91-9474172495/+91-9816075495/+91-8250773046
+
 copyright ©2025-2026 Nepal Banerjee All rights reserved.
 
 
