@@ -131,4 +131,9 @@ Authors:-Takayoshi Tanaka and Sumio Ishihara
 
 13)Compass-Heisenberg model on the square lattice—Spin order and elementary excitations
 
-Authors:-F. Trousselet , A. M. Oleś and P. Horsch 
+Authors:-F.Trousselet,A.M.Oleś and P.Horsch 
+
+14)Degenerate manifolds, helimagnets, and multi-Q chiral phases in the classical Heisenberg
+antiferromagnet on the face-centered-cubic lattice.
+
+Authors:-Péter Balla,Yasir Iqbal ,and Karlo Penc 
