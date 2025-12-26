@@ -13,8 +13,8 @@ C===============================================================================
          PROGRAM MONTECARLO_SIMULATION_HEISENBERG_SPIN
          IMPLICIT NONE
          INTEGER L,LSQ,itmx,itset,idiv
-         PARAMETER(L=15,LSQ=L*L*L,itmx=400000,
-     &itset=300000,idiv=itmx-itset) 
+         PARAMETER(L=14,LSQ=L*L*L,itmx=1500000,
+     &itset=500000,idiv=itmx-itset) 
          INTEGER i,j,k,it,it1,it2,idt    
          INTEGER ic,id,ip,in,jp,jn,kp,kn     
          REAL*8 pi,th,phi,S,delta      
