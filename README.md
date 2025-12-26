@@ -59,17 +59,17 @@ The simulations reveal strong thermal fluctuations across the intermediate‑tem
 • Disorder‑perturbed exchange interactions
 • Extension toward Kitaev‑compass hybrid models
 
-#Usage
+# Usage
 ------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------
 Compilation and execution via standard Makefile interface. Simulation parameters configured through editable input file for reproducible numerical runs.
 
-#Acknowledgement
+# Acknowledgement
 -------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------
 This work supports ongoing research on frustration‑induced ordering phenomena and entropy‑driven phase selection in classical anisotropic spin systems.
 
-#Reference:-
+# Reference:-
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 1)First-order directional ordering transition in the three-dimensional compass model
@@ -122,8 +122,5 @@ Authors:-Anup Mishra,  Michael Ma, Fu-Chun Zhang,  Siegfried Guertler, Lei-Han T
 Authors:-Takayoshi Tanaka and Sumio Ishihara
 
 13)Compass-Heisenberg model on the square lattice—Spin order and elementary excitations
-Authors:-F. Trousselet , A. M. Oleś and P. Horsch 
 
-Authors:-Takayoshi Tanaka and Sumio Ishihara
-13)Compass-Heisenberg model on the square lattice—Spin order and elementary excitations
 Authors:-F. Trousselet , A. M. Oleś and P. Horsch 
