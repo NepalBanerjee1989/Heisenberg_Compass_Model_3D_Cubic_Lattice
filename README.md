@@ -13,24 +13,36 @@ copyright ©2025-2026 Nepal Banerjee All rights reserved.
 
 --------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
-Overview
+# Overview
+
 This document presents the simulation toolkit for the classical Monte Carlo study of the Heisenberg–Compass model on a 3D cubic lattice. The framework is designed to explore frustration‑induced degeneracy, directional ordering, and entropy‑driven order‑by‑disorder behavior at finite temperature.
 
-Key Features
+# Key Features
+
 • Implementation of Heisenberg + compass‑anisotropic exchange interactions
+
 • Support for cubic lattice geometry with periodic boundary conditions
+
 • Tunable interaction parameters and lattice sizes
+
 • Temperature‑dependent Monte Carlo sampling (Metropolis algorithm)
+
 • Automated thermal annealing and equilibrium averaging
 
-Simulation Outputs
+# Simulation Outputs
+
 • Magnetization vs Temperature (M–T)
+
 • Energy vs Temperature (E–T)
+
 • Specific Heat and Susceptibility
+
 • Directional Order Parameters
+
 • Fluctuation and degeneracy indicators
 
-Physical Insights
+# Physical Insights
+
 The simulations reveal strong thermal fluctuations across the intermediate‑temperature regime, reflecting high ground‑state degeneracy and frustrated exchange competition. Directional ordering emerges through entropy‑induced state selection, consistent with the order‑by‑disorder mechanism in anisotropic spin systems. Observed thermodynamic signatures indicate a fluctuation‑dominated transition window, with possible weak first‑order characteristics influenced by competing ordered manifolds.
 
 #Analysis Capabilities
@@ -40,7 +52,8 @@ The simulations reveal strong thermal fluctuations across the intermediate‑tem
 • Finite‑size comparison ready
 • Export‑ready numerical output for plotting/analysis tools
 
-#Future Extensions
+# Future Extensions
+
 • Systematic finite‑size scaling and critical behavior study
 • Metastability and hysteresis analysis
 • Disorder‑perturbed exchange interactions
